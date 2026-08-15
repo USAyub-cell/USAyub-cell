@@ -1,87 +1,91 @@
 # U. S. Ayuba
 
-## Principal Data Analytics Consultant | Senior Data Analyst
+## Principal Data Analytics Consultant | Executive BI, Data Quality & Decision Intelligence
 
-**Power BI | SQL | Tableau | Data Modelling | Executive Dashboards | KPI Frameworks | Reporting Automation | Data Quality**
+**Power BI · SQL · Tableau · Data Modelling · KPI Frameworks · Reporting Automation · Data Quality · Executive Reporting**
 
-I am a strategic data analytics consultant with more than 10 years of international experience helping organisations turn operational data into executive decision intelligence.
+I am a strategic data analytics consultant with **10+ years of international experience** helping organisations transform operational data into executive decision intelligence. I design analytics solutions that connect data quality, modelling, business intelligence and KPI reporting to measurable operational decisions.
 
-My work focuses on business intelligence, SQL data solutions, KPI frameworks, reporting automation, performance analytics, data quality, stakeholder engagement and clear project handover. I build analytics solutions that connect technical delivery to operational decisions.
+My delivery approach combines **technical depth, commercial awareness, stakeholder engagement and controlled handover**—from data profiling and SQL transformation through semantic modelling, dashboard development, executive insight and governance.
 
-### Core capabilities
+## Executive Analytics Capabilities
 
-- Power BI dashboard design and executive reporting
-- SQL data modelling, transformation and analytical querying
-- Tableau and SSRS reporting
-- KPI framework design and performance analytics
-- Data quality, profiling and migration-readiness analysis
-- Reporting automation and management insight packs
-- Stakeholder management and Agile delivery
-- Documentation, knowledge transfer and clean project handover
+- **Business Intelligence:** Power BI, Tableau, SSRS and executive dashboard design
+- **SQL & Data Modelling:** scalable analytical datasets, transformations and business-rule implementation
+- **Data Quality & Migration:** profiling, duplicate detection, completeness checks, source-of-truth validation and reconciliation
+- **KPI & Performance Analytics:** KPI frameworks, reporting automation and executive insight packs
+- **Decision Intelligence:** translating operational data into clear management actions, risks and priorities
+- **Delivery & Governance:** stakeholder management, Agile delivery, documentation, QA and knowledge transfer
 
-## Featured project — Project APEX
+## Flagship Portfolio Case Study — Project APEX
 
 ### Enterprise People Data Migration Readiness Analytics Pilot
 
-Project APEX is a **professional capstone consulting simulation** demonstrating an end-to-end senior analytics workflow across Excel, PostgreSQL and Power BI.
+**Project APEX** is a professional capstone consulting simulation demonstrating an end-to-end analytics workflow across **Excel, PostgreSQL and Power BI**.
 
-**Business challenge:** determine whether employee master data from multiple source systems is sufficiently complete, validated and governed for migration.
+**Business challenge:** determine whether employee master data from multiple operational systems is complete, validated, governed and sufficiently ready for migration.
 
-**Pilot baseline:**
-
-| Metric | Result |
+| Migration Readiness KPI | Baseline |
 |---|---:|
 | Employee records assessed | 200 |
 | Migration-ready records | 189 |
 | Records requiring remediation | 11 |
-| Initial migration readiness | 94.5% |
+| Initial migration readiness | **94.5%** |
 | Duplicate-flagged records | 5 |
 | Missing-email records | 6 |
 | Source-of-truth not confirmed | 11 |
 | Validation pending | 11 |
 
-### What the project demonstrates
+### Solution Architecture
+
+`Business Problem → Data Profiling → Excel Controls → PostgreSQL Validation → Data Quality Rules → Power BI Semantic Model → DAX KPIs → Executive Dashboard → QA & Reconciliation → Recommendation`
+
+### What Project APEX Demonstrates
 
 - Business-problem definition and requirements translation
-- Excel data profiling and remediation controls
-- PostgreSQL data-quality rules and validation queries
-- Source-of-truth and migration-readiness logic
+- Structured Excel data-quality assessment and remediation controls
+- PostgreSQL profiling, validation and migration-readiness queries
+- Data-quality rule catalogue and source-of-truth governance
 - Star-schema Power BI semantic modelling
-- Power Query transformations
-- DAX KPI measures
-- Executive migration-readiness reporting
-- Reconciliation, QA and controlled handover
+- Power Query transformation logic
+- DAX KPI measures and executive reporting
+- Cross-tool reconciliation and controlled QA
+- Executive migration recommendation and handover documentation
 
-## Selected professional evidence
+> **Portfolio integrity:** Project APEX uses synthetic data and is presented as a professional capstone consulting simulation, not as paid client experience.
 
-- Delivered executive Power BI dashboards across 10,000+ records.
-- Designed scalable SQL data models supporting analysis for more than 1,000 customers.
-- Developed SQL datasets supporting 800+ customer records.
-- Implemented SSRS and Tableau dashboards monitoring 30+ operational and financial KPIs.
-- Produced more than 30 analytical reports and executive workforce insight packs.
-- Led optimisation initiatives associated with an 80% improvement in operational recovery performance.
+## Selected Professional Evidence
 
-## Education and certification
+- Delivered executive **Power BI dashboards across 10,000+ records**, eliminating a reporting backlog within contract timelines.
+- Designed scalable **SQL data models supporting analysis for more than 1,000 customers**.
+- Developed scalable SQL datasets supporting **800+ customer records**.
+- Implemented **SSRS and Tableau dashboards monitoring 30+ operational and financial KPIs**.
+- Produced **30+ analytical reports and executive workforce insight packs** supporting leadership decisions.
+- Led optimisation initiatives associated with an **80% improvement in operational recovery performance**.
 
-- Advance Data Analytic Management — United Kingdom 2024
-- CompTIA A+ — United Kingdom 2023
-- National Diploma Social Science & English — Nigeria 2006
-- Advance Business Management — California USA {In Progress}
+## Professional Credentials
 
-## Current portfolio focus
+- **MSc Data Analytic Management** — 2024
+- **CompTIA A+** — UK
+- **National Diploma, Social Science** — 2006
+- **Business Management** — In Progress
 
-I am building governed, interview-ready analytics case studies that demonstrate how I approach:
+## How I Approach Analytics
 
-**Business problem → data assessment → SQL → Excel controls → semantic model → Power BI → executive insight → QA → recommendation**
+I focus on the full decision lifecycle rather than isolated reporting:
 
-## Contact
+**Business objective → governed data → analytical model → KPI framework → insight → action → validation → handover**
 
-- LinkedIn: https://www.linkedin.com/in/u-s-ayub
-- Email: ayus4real40@gmail.com
-- Availability: UK & Global | Remote | Hybrid | Contract
+This approach supports executive visibility, operational improvement, data-quality control and scalable analytical delivery.
 
----
+## Professional Focus
 
-### Portfolio integrity note
+**Principal Data Analytics Consultant / Senior Analytics Contract Opportunities**
 
-Project APEX is a professional capstone consulting simulation using synthetic data. It demonstrates applied analytics capability and is not presented as paid client experience.
+UK & Global · Remote · Hybrid · Contract
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/u-s-ayub
+- **Email:** ayus4real40@gmail.com
+
