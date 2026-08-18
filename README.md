@@ -87,5 +87,5 @@ UK & Global · Remote · Hybrid · Contract
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/u-s-ayub
-- **Email:** ayus4real40@gmail.com
+
 
