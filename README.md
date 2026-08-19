@@ -6,7 +6,7 @@
 
 I am a strategic data analytics consultant with **10+ years of international experience** helping organisations transform operational data into executive decision intelligence. I design analytics solutions that connect data quality, modelling, business intelligence and KPI reporting to measurable operational decisions.
 
-My delivery approach combines **technical depth, commercial awareness, stakeholder engagement and controlled handover**—from data profiling and SQL transformation through semantic modelling, dashboard development, executive insight and governance.
+My delivery approach combines **technical depth, commercial awareness, stakeholder engagement and controlled handover**, from data profiling and SQL transformation through semantic modelling, dashboard development, executive insight and governance.
 
 ## Executive Analytics Capabilities
 
