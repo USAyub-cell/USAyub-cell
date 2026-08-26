@@ -36,6 +36,27 @@ My delivery approach combines **technical depth, commercial awareness, stakehold
 | Source-of-truth not confirmed | 11 |
 | Validation pending | 11 |
 
+## Portfolio Visual Evidence
+
+### Executive Migration Readiness Dashboard
+
+![Project APEX Executive Migration Readiness Dashboard](08_case_study/visuals/APEX_PBI_Executive_Migration_Readiness_HD.png)
+
+Executive view of the Project APEX migration baseline: 200 employee records, 189 migration-ready, 11 requiring remediation and 94.5% overall readiness.
+
+### Data Quality & Remediation Dashboard
+
+![Project APEX Data Quality and Remediation Dashboard](08_case_study/visuals/APEX_PBI_Data_Quality_HD.png)
+
+Governed exception-management view highlighting duplicate, completeness, source-of-truth and validation issues requiring remediation before migration approval.
+
+### Power BI Semantic Model
+
+![Project APEX Power BI Semantic Model](08_case_study/visuals/APEX_PBI_Semantic_Model_HD.png)
+
+Fact-and-dimension analytical model supporting migration-readiness KPIs, data-quality analysis and controlled executive reporting.
+
+
 ### Solution Architecture
 
 `Business Problem → Data Profiling → Excel Controls → PostgreSQL Validation → Data Quality Rules → Power BI Semantic Model → DAX KPIs → Executive Dashboard → QA & Reconciliation → Recommendation`
