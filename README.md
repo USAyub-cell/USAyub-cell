@@ -44,6 +44,7 @@ My delivery approach combines **technical depth, commercial awareness, stakehold
 
 ![Project APEX Power BI Semantic Model](assets/APEX_PBI_Semantic_Model_HD.png)
 
+
 ### Solution Architecture
 
 `Business Problem → Data Profiling → Excel Controls → PostgreSQL Validation → Data Quality Rules → Power BI Semantic Model → DAX KPIs → Executive Dashboard → QA & Reconciliation → Recommendation`
